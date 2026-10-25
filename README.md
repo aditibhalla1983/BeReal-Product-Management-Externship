@@ -55,7 +55,8 @@ To drive Monthly Active Users (MAU) and repeat engagement, I evaluated multiple 
 | **Interactive UI Prototype (Create Your Highlights)** | [View](https://gorgeous-pika-8170d2.netlify.app/) 
 | **Promo Reel (Create Your Highlights)** | [View](https://youtube.com/shorts/G58t1NgIT3s?feature=share)
 | **Focus Group Usability Testing & Analytics Report** | [View](https://pear-visage-882.notion.site/Test-Summary-Report-BeReal-Notification-Sound-3e72471950ad81aeaa83e240539a792f?source=copy_link) |
-| **Executive / Stakeholder Pitch** | [View](https://youtu.be/eoDebsp4i-g) |
+| **Stakeholder Pitch(Bereal Personalized Alert)** | [View](https://youtu.be/eoDebsp4i-g) |
+| **Stakeholder Pitch(Create Your Highlights)** | [View](https://youtu.be/IR5Wi17cufk?si=EevNVEi14fzylnzt)|
 
 ---
 
