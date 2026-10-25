@@ -18,7 +18,7 @@ To drive Monthly Active Users (MAU) and repeat engagement, I evaluated multiple 
 | :--- | :--- | :---: | :--- |
 | **🔔 Distinctive Notification Treatment** | Acquisition / Daily Triggers | **15.3** | **Selected for MVP 1** (High Reach & Impact) |
 | **📅 Memory Recap & Rediscovery** | Retention / Daily Habit | High | **Selected for MVP 2** (Algorithm-driven engagement) |
-| **✨ Create Your Highlights** | Engagement / Viral Loops | High | **Selected for MVP 2** (User-driven curation) |
+| **✨ Create Your Highlights** | Engagement / Viral Loops | High | **Selected for MVP 3** (User-driven curation) |
 
 ---
 
@@ -35,7 +35,7 @@ To drive Monthly Active Users (MAU) and repeat engagement, I evaluated multiple 
 * **The Solution:** A automated monthly recap summary. To maximize engagement, the UI displays memories chosen dynamically by a **backend personalization algorithm** rather than utilizing standard 1/3/5-year dropdown selection options.
 * **Primary Metric:** Repeat Usage Rate / Multi-Day Retention.
 
-### 3. "Create Your Highlights" Feature (MVP 2)
+### 3. "Create Your Highlights" Feature (MVP 3)
 * **The Problem:** Users want a streamlined way to curate and showcase their favorite past BeReal moments on and off the platform.
 * **The Solution:** An intuitive "quick cut" dashboard feature enabling seamless highlight compilation, giving users complete control over their shared social memory narrative.
 * **Primary Metric:** Feature Adoption / External Social Shares.
