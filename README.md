@@ -6,7 +6,7 @@ I drove the end-to-end product lifecycle for three high-leverage growth opportun
 ---
 
 ## 🔎 The Product Workflow
-User Journey Mapping ➔ Competitive Analysis ➔ RICE Prioritization ➔ PRD Development ➔ Interactive Prototyping ➔ Usability Focus Groups ➔ Agile Iteration & Pivoting ➔ CEO Pitch
+User Journey Mapping ➔ Competitive Analysis ➔ RICE Prioritization ➔ PRD Development ➔ Interactive Prototyping ➔ Usability Focus Groups ➔ Agile Iteration & Pivoting ➔ Stakeholder Pitch
 
 ---
 
@@ -24,7 +24,7 @@ To drive Monthly Active Users (MAU) and repeat engagement, I evaluated multiple 
 
 ## 🚀 Deep Dive: Executed Features
 
-### 1. Distinctive Notification Treatment (MVP 1)
+### 1. Bereal Personalized Alert (MVP 1)
 * **The Problem:** BeReal’s daily notification triggers its entire core experience, but users frequently miss the generic system alert.
 * **The Solution:** A recognizable, unique daily audio chime and distinct visual treatment designed to catch user attention instantly without increasing anxiety. 
 * **Primary Metric:** Notification ➔ Post Conversion Rate.
@@ -46,13 +46,16 @@ To drive Monthly Active Users (MAU) and repeat engagement, I evaluated multiple 
 
 | Deliverable Artifact | Status / Access |
 | :--- | :--- |
-| **User Journey Map & Discovery** | [View Artifact](#) |
-| **Competitive Benchmarking (Instagram, Snapchat, Yope)** | [View Artifact](#) |
-| **RICE Prioritization Framework Matrix** | [View Artifact](#) |
-| **PRD-Lite (Notification & Retention Features)** | [View Artifact](#) |
-| **Interactive UI Prototype (Lovable Architecture)** | [View Prototype File](#) |
-| **Focus Group Usability Testing & Analytics Report** | [View Artifact](#) |
-| **Executive / CEO Pitch Deck** | [View Presentation](#) |
+| **User Journey Map & Discovery** | [View](https://docs.google.com/spreadsheets/d/11s-oAOVotrawzh0GgI9b0GhYOxMDM5WT2EV2TSt9AOY/edit?usp=sharing) |
+| **Competitive Benchmarking (Snapchat)** | [View](https://docs.google.com/spreadsheets/d/15ecOqKfOiPCRLq9FOf2S2YOztouZJbN9/edit?usp=sharing&ouid=104741886082835870360&rtpof=true&sd=true) |
+| **RICE Prioritization Framework Matrix** | [View](https://pear-visage-882.notion.site/RICE-Prioritization-Framework-3e62471950ad80c39bbcda2fea104317?source=copy_link) |
+| **PRD-Lite (Notification & Retention Features)** | [View](https://app.notion.com/p/3e02471950ad81f39ecdf92d7e5b84c9) |
+| **Interactive UI Prototype (Bereal Personalized Alert)** | [View](https://youtube.com/shorts/TWKFNh_GpMA?feature=share) |
+| **Interactive UI Prototype (Personalized Memory Recap )** | [View](https://wonderful-bublanina-95993e.netlify.app/) |
+| **Interactive UI Prototype (Create Your Highlights)** | [View](https://gorgeous-pika-8170d2.netlify.app/) 
+| **Promo Reel (Create Your Highlights)** | [View](https://youtube.com/shorts/G58t1NgIT3s?feature=share)
+| **Focus Group Usability Testing & Analytics Report** | [View](https://pear-visage-882.notion.site/Test-Summary-Report-BeReal-Notification-Sound-3e72471950ad81aeaa83e240539a792f?source=copy_link) |
+| **Executive / Stakeholder Pitch** | [View](https://youtu.be/eoDebsp4i-g) |
 
 ---
 
@@ -61,19 +64,4 @@ To drive Monthly Active Users (MAU) and repeat engagement, I evaluated multiple 
 * **Data-Driven Guardrails:** Learned to anchor ambiguous growth concepts into concrete success metrics, ensuring user-centric design always aligns with top-line MAU business goals.
 
 
-### 📁 Project Artifacts
 
-| Deliverable | |
-|---|---|
-| User Journey Map | [View](https://docs.google.com/spreadsheets/d/11s-oAOVotrawzh0GgI9b0GhYOxMDM5WT2EV2TSt9AOY/edit?usp=sharing) |
-| Competitive Benchmarking | [View](https://docs.google.com/spreadsheets/d/15ecOqKfOiPCRLq9FOf2S2YOztouZJbN9/edit?usp=sharing&ouid=104741886082835870360&rtpof=true&sd=true) |
-| RICE Prioritization | [View](https://pear-visage-882.notion.site/RICE-Prioritization-Framework-3e62471950ad80c39bbcda2fea104317?source=copy_link) |
-| PRD | [View](https://app.notion.com/p/3e02471950ad81f39ecdf92d7e5b84c9) |
-| Prototype | [View](https://youtube.com/shorts/TWKFNh_GpMA?feature=share) |
-[View prototype file](https://gorgeous-pika-8170d2.netlify.app/)
-| Focus Group / Testing | [View](https://pear-visage-882.notion.site/Test-Summary-Report-BeReal-Notification-Sound-3e72471950ad81aeaa83e240539a792f?source=copy_link) |
-| CEO Pitch | [View](https://youtu.be/eoDebsp4i-g) |
-
-### 🎯 PM Takeaway
-
-**Understand the user → prioritize the right problem → build → test → learn.**
