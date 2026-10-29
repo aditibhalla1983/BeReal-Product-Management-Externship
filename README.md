@@ -1,3 +1,95 @@
+# Wayfair — Product Management Externship
+
+**Product:** AI-Powered Consumer Trend Discovery Agent | **Focus:** Market Intelligence & Product Opportunity Discovery | **Role:** Product Management Extern
+
+I worked on an AI-powered workflow designed to help Wayfair identify promising product opportunities by analyzing consumer trends, product listings, market data, and competitor activity. The goal is to turn fragmented research into actionable insights that help Product Managers prioritize opportunities and support business growth.
+
+---
+
+## 🔎 The Product Workflow
+
+Market Research → Competitor Analysis → Trend Discovery → Product Opportunity Identification → AI-Generated Insights & Moodboards → Google Sheets Reporting
+
+---
+
+## 💡 Product Strategy & Goals
+
+The workflow aims to help Wayfair discover its next best product or market opportunity by reducing manual research and making market intelligence easier to analyze.
+
+| Focus Area | Problem | Strategic Goal |
+| :--- | :--- | :--- |
+| **Consumer Trend Discovery** | Emerging trends are difficult to identify across multiple sources. | Surface relevant trends and product opportunities. |
+| **Competitor Monitoring** | Competitor products, pricing, and launches require ongoing research. | Identify market gaps and opportunities to differentiate. |
+| **AI-Powered Insights** | Raw research is difficult to translate into actionable ideas. | Generate summaries, product ideas, and visual moodboards. |
+| **Automated Reporting** | Research findings can be fragmented and time-consuming to organize. | Deliver structured insights through Google Sheets. |
+
+---
+
+## 🎯 Target Users
+
+- **Primary:** Product Managers at Wayfair who identify, evaluate, and prioritize product opportunities.
+- **Secondary:** Merchandising, category management, product design, and marketing teams who use trend insights to inform assortment and creative decisions.
+
+---
+
+## 🚀 Core Product Capabilities
+
+### 1. AI-Powered Trend Discovery
+- **The Problem:** Product Managers need to analyze information from multiple sources to identify emerging consumer preferences.
+- **The Solution:** Collect and analyze product data, blogs, social media, and market information to surface potential trends.
+- **Intended Value:** Reduce manual research and help teams identify promising product directions.
+
+### 2. Competitor Monitoring
+- **The Problem:** Understanding competitor assortment, pricing, and product launches requires continuous monitoring.
+- **The Solution:** Analyze available competitor information from Walmart, Amazon, and Home Depot to identify potential market gaps and opportunities.
+- **Intended Value:** Help Wayfair evaluate competitive positioning and areas for differentiation.
+
+### 3. AI Insights & Moodboards
+- **The Problem:** Market research can be difficult to translate into clear product concepts and creative directions.
+- **The Solution:** Generate trend summaries, product ideas, campaign content, and visual moodboards.
+- **Intended Value:** Make insights easier to understand, evaluate, and act on.
+
+### 4. Automated Reporting
+- **The Problem:** Findings can be scattered across research sources and difficult to share consistently.
+- **The Solution:** Organize generated trends and insights in an automatically updated Google Sheets dashboard.
+- **Intended Value:** Give teams a structured view of findings to support opportunity evaluation and prioritization.
+
+---
+
+## 📊 Success Metrics
+
+| Metric | What It Measures |
+| :--- | :--- |
+| **Idea Value Rate** | Percentage of report ideas Product Managers consider valuable. |
+| **Sales Impact** | Sales associated with opportunities identified and pursued through the workflow. |
+| **Opportunity Adoption** | Percentage of ideas selected for further research or development. |
+| **Research Time Saved** | Reduction in time spent gathering and analyzing market information. |
+| **Insight Accuracy** | Accuracy of product classifications and supporting trend evidence. |
+
+**Primary success measure:** The percentage of generated ideas that Product Managers consider valuable and worth pursuing.
+
+**Long-term business outcome:** Determine whether pursued opportunities contribute to sales growth. Sales impact should be evaluated over time rather than assumed from trend discovery alone.
+
+---
+
+## 📁 Project Artifacts & Deliverables
+
+- **Automated n8n Workflow:** Data collection, processing, and AI-driven trend analysis.
+- **Product Classification & Trend Analysis:** Structured product categories and emerging trend segments.
+- **AI-Generated Moodboards:** Visual representations of potential product directions.
+- **Competitor Intelligence:** Analysis of available competitor products and market signals.
+- **Google Sheets Dashboard:** Structured reporting of trends and insights.
+
+---
+
+## 🎯 PM Takeaways & Learnings
+
+- **Problem-First Product Thinking:** Define the target user and validate the problem before deciding which features to build.
+- **Data-Driven Prioritization:** Evaluate ideas based on relevance, competitive context, and potential business value.
+- **Outcome-Oriented Metrics:** Measure not only workflow execution, but also the value of generated ideas and their potential contribution to sales.
+- **Human-in-the-Loop AI:** Use AI to accelerate discovery while keeping Product Managers involved in validating and prioritizing opportunities.
+
+
 # BeReal — Product Management Externship
 **Product:** BeReal | **Focus:** MAU Growth & Long-Term Retention | **Role:** Product Management Extern
 
